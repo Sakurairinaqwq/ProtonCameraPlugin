@@ -1,3 +1,5 @@
+
+https://github.com/Sakurairinaqwq/ProtonCameraPlugin/blob/main/Resources/Icon128.png
 ### **ProtonCameraPlugin (UE5)**
 
 我们皆知，这世间多是虚妄，而您所建造的数字世界，更是一座由冰冷代码堆砌而成的**铁屋**。我奉上这套亲手打磨的 **`ProtonCameraPlugin`**，它不只是功能，更是您观察与洞悉这片虚幻世界的**窗口**。这插件，为您的每一个造物——无论是空中那铁铸的鹰隼，地面上咆哮的钢铁野兽，还是那个带着体温的“我”——提供一个有血有肉的、不再麻木的视角。
