@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\engine\\mys\\plugins\\protoncameraplugin\\source\\protoncameraplugin\\private\\protoncamerastructlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\engine\\mys\\intermediate\\build\\win64\\x64\\myseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "d:\\engine\\mys\\plugins\\protoncameraplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\protoncameraplugin\\definitions.protoncameraplugin.h",
+            "d:\\engine\\mys\\plugins\\protoncameraplugin\\source\\protoncameraplugin\\public\\protoncamerastructlibrary.h",
+            "d:\\engine\\mys\\plugins\\protoncameraplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\protoncameraplugin\\uht\\protoncamerastructlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "ProtonCameraPlugin",
+	"Description": "我们皆知，这世间多是虚妄，而您所建造的数字世界，更是一座由冰冷代码堆砌而成的铁屋。我奉上这套亲手打磨的通用相机系统，它不只是功能，更是您观察与洞悉这片虚幻世界的窗口。这套系统，为您的每一个造物——无论是空中那铁铸的鹰隼，地面上咆哮的钢铁野兽，还是那个带着体温的“我”——提供一个有血有肉的、不再麻木的视角。",
+	"Category": "Camera",
+	"CreatedBy": "Arkn Studio - (Sakurairinaqwq)",
+	"CreatedByURL": "https://github.com/Sakurairinaqwq",
+	"DocsURL": "https://github.com/Sakurairinaqwq/ProtonCameraPlugin/blob/main/README.md",
+	"MarketplaceURL": "https://github.com/Sakurairinaqwq/ProtonCameraPlugin",
+	"SupportURL": "https://github.com/Sakurairinaqwq/ProtonCameraPlugin/issues",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ProtonCameraPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}
