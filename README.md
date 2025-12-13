@@ -1,4 +1,4 @@
-<img src="[url](https://github.com/Sakurairinaqwq/ProtonCameraPlugin/blob/main/Resources/Icon128.png)" alt="ICON">
+<img src="https://github.com/Sakurairinaqwq/ProtonCameraPlugin/blob/main/Resources/Icon128.png" alt="ICON">
 
 ### **ProtonCameraPlugin (UE5)**
 
